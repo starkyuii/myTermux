@@ -3,7 +3,7 @@
 PACKAGES=(
   awesomeshot bat curl clang exa fzf git imagemagick
   inotify-tools lf mpd mpc neovim openssh
-  neofetch termux-api tmux zsh
+  neofetch termux-api tmux zsh python ruby bash wget tur-repo python3.9 ffmpeg yt-dlp
 )
 
 function packages() {
