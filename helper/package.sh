@@ -2,8 +2,8 @@
 
 PACKAGES=(
   awesomeshot bat curl exa fzf git
-  inotify-tools lf openssh
-  neofetch termux-api  zsh python bash wget tur-repo python3.9 ffmpeg wheel
+  inotify-tools lf
+  neofetch termux-api  zsh python bash wget  wheel
 )
 
 function packages() {
